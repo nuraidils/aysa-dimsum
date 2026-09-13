@@ -17,7 +17,7 @@ const jakarta = Plus_Jakarta_Sans({
   display: "swap",
 });
 
-const siteUrl = "https://aysadimsum.com";
+const siteUrl = "https://aysa-dimsum.vercel.app";
 const title = "Aysa Dimsum — Dimsum Kukus & Goreng Balaraja, Pesan via WhatsApp";
 const description =
   "Aysa Dimsum, Griya Sutera Balaraja. Dimsum original, goreng, mentai, tartar, chili oil, sampai kuah keju creamy — dibuat fresh setiap hari, siap pesan lewat WhatsApp.";
